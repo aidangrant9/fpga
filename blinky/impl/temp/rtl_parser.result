@@ -1,0 +1,10 @@
+[
+ {
+  "InstFile" : "C:/Users/aidan/scratch/fpga/blinky/src/main.vhd",
+  "InstLine" : 5,
+  "InstName" : "blink",
+  "ModuleFile" : "C:/Users/aidan/scratch/fpga/blinky/src/main.vhd",
+  "ModuleLine" : 5,
+  "ModuleName" : "blink"
+ }
+]
